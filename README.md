@@ -8,8 +8,6 @@ Welcome to the **Rule Engine with AST** project! This application serves as a ro
 - **Efficient Backend**: Node.js and Express handle API requests and rule processing.
 - **Scalable Database**: MongoDB is used for flexible data storage of rules and metadata.
 
-![image](https://github.com/user-attachments/assets/c10d5ac2-31b1-418c-b022-e05cffd04ba1)
-
 ## Technology Stack
 - **MongoDB**: A NoSQL database selected for its ease of use and ability to handle complex data structures, making it ideal for storing rules and user data.
 - **React.js**: This JavaScript library enables the creation of interactive user interfaces, allowing for responsive and dynamic content.
@@ -17,7 +15,6 @@ Welcome to the **Rule Engine with AST** project! This application serves as a ro
 - **Node.js**: As a server-side JavaScript environment, Node.js provides a platform for building scalable applications that handle concurrent requests effectively.
 - **Python**: Employed for backend logic, Python is utilized to implement the core functionalities of rule processing and evaluation.
 - **JSON**: This lightweight data interchange format is used for data transmission between the client and server, ensuring compatibility and ease of integration.
-![image](https://github.com/user-attachments/assets/5da20ec8-4783-4c55-ad5c-9a37a6a1f9db)
 
 ## Getting Started
 
@@ -55,7 +52,6 @@ cd Rule-Engine-AST
    ```bash
    npm start
    ```
-![image](https://github.com/user-attachments/assets/472826eb-d9d7-470b-983e-2fd8341f7b20)
 
 ### MongoDB Configuration
 Ensure MongoDB is installed and running. Create a database for this application and update the connection string in the backend configuration file accordingly.
