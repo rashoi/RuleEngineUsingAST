@@ -21,7 +21,7 @@ Welcome to the **Rule Engine with AST** project! This application serves as a ro
 ### Cloning the Repository
 To get started with this project, clone the repository to your local machine:
 ```bash
-git clone 
+git clone https://github.com/rashoi/RuleEngineUsingAST
 cd Rule-Engine-AST
 ```
 
