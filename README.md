@@ -132,6 +132,9 @@ class Node:
             "value": self.value
         }
 ```
+<img width="359" alt="output" src="https://github.com/user-attachments/assets/af6559e2-6992-44af-baa5-b892143512fd">
+<img width="332" alt="output1" src="https://github.com/user-attachments/assets/3c86eade-ffe0-4e81-8738-f855fd07f3b9">
+<img width="344" alt="output2" src="https://github.com/user-attachments/assets/b8c192cf-cf7f-47e9-9a79-5f14634014a4">
 
 ## Testing the Application
 
